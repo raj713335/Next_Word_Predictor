@@ -1,0 +1,10 @@
+The References that i have used to complete the Assignment :
+
+1. Coursera Courses that i have Complete that greatly influenced the way by which i have written all the codes.
+   * Deep Learning Specialization
+   * Tensorflow in Practice Specialization
+   * IBM AI Engineering Professional
+   * IBM Data Science
+
+2. Used Google to find a better alternative to train this data , but got mixed results.
+
