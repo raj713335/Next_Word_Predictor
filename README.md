@@ -8,7 +8,7 @@ The Application is created using Tensorflow and Python.
 - Clone the repo and cd into the directory
 ```sh
 $ git clone https://github.com/raj713335/Next_Word_Predictor.git
-$ cd CORONA_HACKBOOK
+$ cd Next_Word_Predictor
 ```
 
 ## The training data is present in the corpus.txt file.
