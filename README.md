@@ -41,7 +41,7 @@ import numpy as npy
 from PIL import Image
 ```
 
-# Now To train the Model Enter to the NLP_DEEP_LEARNING FOLDER and then again to the sub directory CODE and run the Model Creator.py file
+## Now To train the Model Enter to the NLP_DEEP_LEARNING FOLDER and then again to the sub directory CODE and run the Model Creator.py file
 
 ```sh
 $ cd NLP_DEEP_LEARNING
@@ -93,6 +93,9 @@ $ cd ..
 $ cd GUI
 $ python GUI_WP.py
 ```
+
+
+# Thank You !
 
 
 
