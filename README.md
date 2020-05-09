@@ -52,6 +52,9 @@ $ python Model Creator.py
 
 ## The Summary of the model created
 
+
+
+```sh
 Model: "sequential_1"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
@@ -66,6 +69,7 @@ Total params: 921,142
 Trainable params: 921,142
 Non-trainable params: 0
 _________________________________________________________________
+```
 
 ![](model.png)
 
