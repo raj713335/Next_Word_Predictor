@@ -1,5 +1,4 @@
 import numpy as np
-np.random.seed(42)
 import tensorflow as tf
 from keras.models import Sequential, load_model
 from keras.layers import Dense, Activation
@@ -148,22 +147,6 @@ def predict_completions(text, n=3):
     next_indices = sample(preds, n)
     return [indices_char[idx] + predict_completion(text[1:] + indices_char[idx]) for idx in next_indices]
 
-
-
-quotes = [
-    "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
-    "That which does not kill us makes us stronger.",
-    "I'm not upset that you lied to me, I'm upset that from now on I can't believe you.",
-    "And those who were seen dancing were thought to be insane by those who could not hear the music.",
-    "It is hard enough to remember my opinions, without also remembering my reasons for them!"
-]
-
-
-for q in quotes:
-    seq = q[:40].lower()
-    print(seq)
-    print(predict_completions(seq, 5))
-    print()
 
 
 boolx="N"
