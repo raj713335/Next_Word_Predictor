@@ -80,27 +80,19 @@ _________________________________________________________________
 $ python Output.py
 ```
 
-
-# A X-Ray Report Example .
-
-![](gr1_lrg-a.jpg)
+After that in command line you can enter the input for which you want to check the output.
 
 
+# NOW TO RUN THE GUI VERSION OF THE WORD_PREDICTOR
 
-## Run the coronovirus.py file to train a model and save it as coronovirus.py
+![](word_predictor.png)
 
 ```sh
-$ python coronavirus.py
+$ cd ..
+$ cd ..
+$ cd GUI
+$ python GUI_WP.py
 ```
 
-## Download The Trained Model From the Following link in case you don't have the computational power to train your model
-
-$ url : https://drive.google.com/u/0/uc?id=1112evrjqWlEPw1hkPA44LoVfm_USuys8&export=download
 
 
-## To load and run the model and test it against unknown data\images place you test images in the OUTPUT Folder with 1.jpg/1.jpeg name with it.
-
-
-```sh
-$ python coronovirus_validate.py
-```
