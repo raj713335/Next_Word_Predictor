@@ -1,4 +1,4 @@
-# Next_Word_Predictor 
+# Next Word Predictor 
 A Deep Learning Model to predict next word in a sequence using LSTM .
 
 The Application is created using Tensorflow and Python.
